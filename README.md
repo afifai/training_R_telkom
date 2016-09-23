@@ -10,4 +10,4 @@ Prerequisites Library:
 
 Contact:
 Afif (afifai@sci.ui.ac.id)
-Nabil (nabilbadjri1@gmail.com)
+Nabil (nabil.badjri1@gmail.com)
